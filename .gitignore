@@ -41,6 +41,12 @@ build/Release
 node_modules/
 jspm_packages/
 
+# covers
+public/covers
+
+# Code workspace
+*.code-workspace
+
 # TypeScript v1 declaration files
 typings/
 
